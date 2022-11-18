@@ -2,7 +2,7 @@ enabled: true
 id: "hero"
 
 content:
-  title: "the **LAA-HECAP** association"
+  title: "The **LAA-HECAP** association"
   text: "The LatinAmerica"
 
   buttonPrimary:
