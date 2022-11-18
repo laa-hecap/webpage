@@ -1,8 +1,8 @@
-baseURL: "https://www.example.com/"
+baseURL: "https://laa-hecap.github.io/webpage/"
 theme: "up-business-theme"
 languageCode: "en-us"
 
-title: "Up Business"
+title: "LAA-HECAP"
 
 # googleAnalytics: ""
 
