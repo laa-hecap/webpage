@@ -1,0 +1,15 @@
+enabled: true
+id: "hero"
+
+content:
+  title: "the **LAA-HECAP** association"
+  text: "The LatinAmerica"
+
+  buttonPrimary:
+    label: "What is LAA-HECAP"
+    url: "#"
+
+  buttonSecondary:
+    label: "Sign Up!"
+    url: ""
+
