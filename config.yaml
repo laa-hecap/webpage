@@ -62,7 +62,7 @@ menus:
       weight: 5
 
   buttons:
-    - name: "Book a call"
+    - name: "Register!"
       url: "/#"
       weight: 5
       pre: "btn btn-primary text-light"
