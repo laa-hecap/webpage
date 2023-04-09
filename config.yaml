@@ -53,7 +53,7 @@ menus:
       url: "/#"
       weight: 3
 
-    - name: "Pricing"
+    - name: "Newsletter"
       url: "/#"
       weight: 4
 
