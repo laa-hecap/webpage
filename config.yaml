@@ -63,7 +63,7 @@ menus:
 
   buttons:
     - name: "Register!"
-      url: "(https://t.co/4HzoWqXL71)"
+      url: "https://t.co/4HzoWqXL71"
       weight: 5
       pre: "btn btn-primary text-light"
 
