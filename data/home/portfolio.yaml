@@ -1,5 +1,5 @@
 # enabled: true
-enables: false
+enabled: false
 id: "portfolio"
 
 content:
