@@ -61,11 +61,11 @@ menus:
       url: "/blog"
       weight: 5
 
-  buttons:
-    - name: "Register!"
-      url: "https://t.co/4HzoWqXL71"
-      weight: 5
-      pre: "btn btn-primary text-light"
+ # buttons:
+ #   - name: "Register!"
+ #     url: "https://t.co/4HzoWqXL71"
+ #     weight: 5
+ #     pre: "btn btn-primary text-light"
 
   footer:
     - name: "Home"
