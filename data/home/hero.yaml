@@ -3,7 +3,7 @@ id: "hero"
 
 content:
   title: "LAA-HECAP"
-  subtitle: "The Latin American Association for High Energy, Cosmology and Astroparticle Physics"
+  text: "**The Latin American Association for High Energy, Cosmology and Astroparticle Physics**"
   
  
  
@@ -16,5 +16,5 @@ content:
     label: "Sign Up!"
     url: ""
 
- text: "The Latin American Association for High Energy, Cosmology and Astroparticle Physics"
+
   
