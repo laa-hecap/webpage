@@ -4,6 +4,7 @@ id: "hero"
 content:
   title: "LAA-HECAP"
   text: "**The Latin American Association for High Energy, Cosmology and Astroparticle Physics**"
+  
   ## The Latin American Association for High Energy, Cosmology and Astroparticle Physics
 
   buttonPrimary:
