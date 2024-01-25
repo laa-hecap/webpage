@@ -2,7 +2,7 @@
 author = "Rogerio Rosenfeld"
 title = "Overview"
 date = "2024-01-25"
-description = "Description of LAA-HECAP"
+description = "# Description of LAA-HECAP"
 tags = [
     "markdown",
     "text",
