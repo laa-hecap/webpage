@@ -46,7 +46,7 @@ menus:
       weight: 1
 
     - name: "About us"
-      url: "/#"
+      url: "/AboutUs"
       weight: 2
 
     - name: "Committees"
